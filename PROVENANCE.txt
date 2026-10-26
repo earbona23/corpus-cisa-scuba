@@ -1,0 +1,10 @@
+source repo:    https://github.com/cisagov/ScubaGear  (CC0-1.0)
+source files:   PowerShell/ScubaGear/baselines/{aad,exo,powerbi,powerplatform,securitysuite,sharepoint,teams}.md
+pinned commit:  6e5a1a421b36c5a1fb3fd983b8c4bcd5b7a6c61d
+downloaded:     2026-10-25
+documents:      109 (one Markdown file per SCuBA policy, policies/MS.<ID>.md)
+per baseline:   aad=34 exo=12 powerbi=8 powerplatform=9 securitysuite=24 sharepoint=8 teams=14
+largest file:   policies/MS.SECURITYSUITE.3.1v1.md (6036 bytes); 150 KB cap never hit
+terms:          TLP:CLEAR (share without restriction) + CC0-1.0 (repo) + portions adapted from
+                Microsoft M365/Azure docs under CC BY 4.0 -> reproduced in LICENSE-TERMS (verbatim)
+builder:        split_scuba.py (in this repository), pure Python stdlib

@@ -1,0 +1,38 @@
+CISA SCuBA M365 Secure Configuration Baselines — TERMS (verbatim)
+
+Source (retrieved via the cisagov/ScubaGear repository, pinned commit in PROVENANCE.txt):
+https://github.com/cisagov/ScubaGear  — repository licence: CC0 1.0 Universal (public domain dedication).
+
+----------------------------------------------------------------------------
+TRAFFIC LIGHT PROTOCOL (carried on each baseline)
+
+This document is marked TLP:CLEAR. Recipients may share this information without
+restriction. Information is subject to standard copyright rules. For more information
+on the Traffic Light Protocol, see https://www.cisa.gov/tlp.
+
+----------------------------------------------------------------------------
+LICENSE COMPLIANCE AND COPYRIGHT (verbatim, from each baseline)
+
+Portions of this document are adapted from documents in Microsoft's M365
+(https://github.com/MicrosoftDocs/microsoft-365-docs/blob/public/LICENSE) and Azure
+(https://github.com/MicrosoftDocs/azure-docs/blob/main/LICENSE) GitHub repositories.
+The respective documents are subject to copyright and are adapted under the terms of the
+Creative Commons Attribution 4.0 International license. Sources are linked throughout the
+documents. The United States government has adapted selections of these documents to
+develop innovative and scalable configuration standards to strengthen the security of
+widely used cloud-based software services.
+
+----------------------------------------------------------------------------
+INFORMATIONAL-PURPOSES NOTICE (verbatim, from each baseline)
+
+For non-federal users, the information in these documents is being provided "as is" for
+INFORMATIONAL PURPOSES ONLY. CISA does not endorse any commercial product or service.
+This document does not address, ensure compliance with, or supersede any law, regulation,
+or other authority.
+
+----------------------------------------------------------------------------
+ATTRIBUTION
+
+CISA Secure Cloud Business Applications (SCuBA) project, Cybersecurity and Infrastructure
+Security Agency (CISA). Microsoft, M365, Microsoft Entra ID, Exchange Online, SharePoint,
+Teams, Power BI and Power Platform are trademarks of the Microsoft group of companies.
